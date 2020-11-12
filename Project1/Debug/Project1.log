@@ -1,0 +1,317 @@
+﻿  Game.cpp
+  Main.cpp
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(372): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(378): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(395): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(459): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(485): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(496): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(518): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(529): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(551): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(754): warning C4305: 'argument': truncation from 'int' to 'sf::Uint8'
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(754): warning C4309: 'argument': truncation of constant value
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(768): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(841): warning C4018: '<': signed/unsigned mismatch
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(958): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(963): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(966): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(967): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(969): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(969): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(975): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(975): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(976): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(976): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(977): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(977): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(978): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(978): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(957): warning C4101: 'tmp2': unreferenced local variable
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1035): warning C4018: '<': signed/unsigned mismatch
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1048): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1051): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1055): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1057): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1058): warning C4305: 'argument': truncation from 'int' to 'sf::Uint8'
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1058): warning C4309: 'argument': truncation of constant value
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1072): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1079): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1084): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1089): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1094): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1120): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1121): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1149): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1156): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1163): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1170): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1177): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1184): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1191): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1197): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1204): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1211): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1218): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1225): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1240): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1246): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1253): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1260): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1267): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1274): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1312): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1318): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1324): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1330): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1336): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1342): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1350): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1359): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1437): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1440): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1443): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1445): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1446): warning C4305: 'argument': truncation from 'int' to 'sf::Uint8'
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1446): warning C4309: 'argument': truncation of constant value
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1535): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1538): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1554): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1556): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1557): warning C4305: 'argument': truncation from 'int' to 'sf::Uint8'
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1557): warning C4309: 'argument': truncation of constant value
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1558): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1559): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1560): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1561): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1562): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1585): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1588): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1605): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1607): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1608): warning C4305: 'argument': truncation from 'int' to 'sf::Uint8'
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1608): warning C4309: 'argument': truncation of constant value
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1609): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1610): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1612): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1613): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1614): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1633): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1636): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1651): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1653): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1654): warning C4305: 'argument': truncation from 'int' to 'sf::Uint8'
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1654): warning C4309: 'argument': truncation of constant value
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1655): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1656): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1657): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1658): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1659): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1679): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1682): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1698): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1700): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1701): warning C4305: 'argument': truncation from 'int' to 'sf::Uint8'
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1701): warning C4309: 'argument': truncation of constant value
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1702): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1703): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1704): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1705): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1706): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1727): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1730): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1747): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1749): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1750): warning C4305: 'argument': truncation from 'int' to 'sf::Uint8'
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1750): warning C4309: 'argument': truncation of constant value
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1751): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1752): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1753): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1754): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1755): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1776): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1779): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1795): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1797): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1798): warning C4305: 'argument': truncation from 'int' to 'sf::Uint8'
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1798): warning C4309: 'argument': truncation of constant value
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1799): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1800): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1801): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1802): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1803): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1878): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1886): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1895): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1904): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1914): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1923): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(1989): warning C4018: '<': signed/unsigned mismatch
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(2022): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(2023): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(2029): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(2030): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(2048): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(2066): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(2067): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(2073): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(2074): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(2091): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(2108): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(2109): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(2115): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(2116): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\nora ekramy\source\repos\project1\project1\main.cpp(2134): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::String::String(char const *,class std::locale const &)" (__imp_??0String@sf@@QAE@PBDABVlocale@std@@@Z) referenced in function "void __cdecl `dynamic initializer for 'window''(void)" (??__Ewindow@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::String::String(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::locale const &)" (__imp_??0String@sf@@QAE@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@ABVlocale@3@@Z) referenced in function "void __cdecl game_over(void)" (?game_over@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::String::~String(void)" (__imp_??1String@sf@@QAE@XZ) referenced in function "void __cdecl `dynamic initializer for 'window''(void)" (??__Ewindow@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: static bool __cdecl sf::Keyboard::isKeyPressed(enum sf::Keyboard::Key)" (__imp_?isKeyPressed@Keyboard@sf@@SA_NW4Key@12@@Z) referenced in function "void __cdecl get_diriction(int &)" (?get_diriction@@YAXAAH@Z)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::VideoMode::VideoMode(unsigned int,unsigned int,unsigned int)" (__imp_??0VideoMode@sf@@QAE@III@Z) referenced in function "void __cdecl `dynamic initializer for 'window''(void)" (??__Ewindow@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Window::close(void)" (__imp_?close@Window@sf@@QAEXXZ) referenced in function "void __cdecl game_over(void)" (?game_over@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: bool __thiscall sf::Window::isOpen(void)const " (__imp_?isOpen@Window@sf@@QBE_NXZ) referenced in function "void __cdecl game_over(void)" (?game_over@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: bool __thiscall sf::Window::pollEvent(class sf::Event &)" (__imp_?pollEvent@Window@sf@@QAE_NAAVEvent@2@@Z) referenced in function "void __cdecl game_over(void)" (?game_over@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Window::display(void)" (__imp_?display@Window@sf@@QAEXXZ) referenced in function "void __cdecl game_over(void)" (?game_over@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Transformable::setPosition(float,float)" (__imp_?setPosition@Transformable@sf@@QAEXMM@Z) referenced in function "void __cdecl display_maze(void)" (?display_maze@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Transformable::setRotation(float)" (__imp_?setRotation@Transformable@sf@@QAEXM@Z) referenced in function "void __cdecl moving_pacman(int)" (?moving_pacman@@YAXH@Z)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Transformable::setScale(float,float)" (__imp_?setScale@Transformable@sf@@QAEXMM@Z) referenced in function "void __cdecl game_over(void)" (?game_over@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Transformable::setOrigin(float,float)" (__imp_?setOrigin@Transformable@sf@@QAEXMM@Z) referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: class sf::Vector2<float> const & __thiscall sf::Transformable::getPosition(void)const " (__imp_?getPosition@Transformable@sf@@QBEABV?$Vector2@M@2@XZ) referenced in function "void __cdecl display_maze(void)" (?display_maze@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Transformable::move(float,float)" (__imp_?move@Transformable@sf@@QAEXMM@Z) referenced in function "void __cdecl moving_pacman(int)" (?moving_pacman@@YAXH@Z)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Color::Color(unsigned char,unsigned char,unsigned char,unsigned char)" (__imp_??0Color@sf@@QAE@EEEE@Z) referenced in function "void __cdecl display_maze(void)" (?display_maze@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Shape::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Shape@sf@@QAEXABVColor@2@@Z) referenced in function "void __cdecl game_over(void)" (?game_over@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Shape::setOutlineColor(class sf::Color const &)" (__imp_?setOutlineColor@Shape@sf@@QAEXABVColor@2@@Z) referenced in function "void __cdecl game_over(void)" (?game_over@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Shape::setOutlineThickness(float)" (__imp_?setOutlineThickness@Shape@sf@@QAEXM@Z) referenced in function "void __cdecl game_over(void)" (?game_over@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::CircleShape::CircleShape(float,unsigned int)" (__imp_??0CircleShape@sf@@QAE@MI@Z) referenced in function "void __cdecl `dynamic initializer for 'dot''(void)" (??__Edot@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::CircleShape::setRadius(float)" (__imp_?setRadius@CircleShape@sf@@QAEXM@Z) referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: virtual __thiscall sf::CircleShape::~CircleShape(void)" (__imp_??1CircleShape@sf@@UAE@XZ) referenced in function "void __cdecl `dynamic atexit destructor for 'dot''(void)" (??__Fdot@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Texture::Texture(void)" (__imp_??0Texture@sf@@QAE@XZ) referenced in function "void __cdecl `dynamic initializer for 'blinky_''(void)" (??__Eblinky_@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Texture::~Texture(void)" (__imp_??1Texture@sf@@QAE@XZ) referenced in function "void __cdecl `dynamic initializer for 'life_tex''(void)" (??__Elife_tex@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: bool __thiscall sf::Texture::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class sf::Rect<int> const &)" (__imp_?loadFromFile@Texture@sf@@QAE_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@ABV?$Rect@H@2@@Z) referenced in function "void __cdecl game_over(void)" (?game_over@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Font::Font(void)" (__imp_??0Font@sf@@QAE@XZ) referenced in function "void __cdecl game_over(void)" (?game_over@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Font::~Font(void)" (__imp_??1Font@sf@@QAE@XZ) referenced in function "void __cdecl game_over(void)" (?game_over@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: bool __thiscall sf::Font::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (__imp_?loadFromFile@Font@sf@@QAE_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) referenced in function "void __cdecl game_over(void)" (?game_over@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::RectangleShape::RectangleShape(class sf::Vector2<float> const &)" (__imp_??0RectangleShape@sf@@QAE@ABV?$Vector2@M@1@@Z) referenced in function "void __cdecl `dynamic initializer for 'wall''(void)" (??__Ewall@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::RectangleShape::setSize(class sf::Vector2<float> const &)" (__imp_?setSize@RectangleShape@sf@@QAEXABV?$Vector2@M@2@@Z) referenced in function "void __cdecl game_over(void)" (?game_over@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: virtual __thiscall sf::RectangleShape::~RectangleShape(void)" (__imp_??1RectangleShape@sf@@UAE@XZ) referenced in function "void __cdecl `dynamic atexit destructor for 'wall''(void)" (??__Fwall@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::RenderTarget::clear(class sf::Color const &)" (__imp_?clear@RenderTarget@sf@@QAEXABVColor@2@@Z) referenced in function "void __cdecl display_maze(void)" (?display_maze@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: class sf::Vector2<float> __thiscall sf::RenderTarget::mapPixelToCoords(class sf::Vector2<int> const &)const " (__imp_?mapPixelToCoords@RenderTarget@sf@@QBE?AV?$Vector2@M@2@ABV?$Vector2@H@2@@Z) referenced in function "void __cdecl game_over(void)" (?game_over@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QAEXABVDrawable@2@ABVRenderStates@2@@Z) referenced in function "void __cdecl display_maze(void)" (?display_maze@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::RenderWindow::RenderWindow(class sf::VideoMode,class sf::String const &,unsigned int,struct sf::ContextSettings const &)" (__imp_??0RenderWindow@sf@@QAE@VVideoMode@1@ABVString@1@IABUContextSettings@1@@Z) referenced in function "void __cdecl `dynamic initializer for 'window''(void)" (??__Ewindow@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: virtual __thiscall sf::RenderWindow::~RenderWindow(void)" (__imp_??1RenderWindow@sf@@UAE@XZ) referenced in function "void __cdecl `dynamic atexit destructor for 'window''(void)" (??__Fwindow@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QAE@XZ) referenced in function "void __cdecl `dynamic initializer for 'blinky''(void)" (??__Eblinky@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Sprite::setTexture(class sf::Texture const &,bool)" (__imp_?setTexture@Sprite@sf@@QAEXABVTexture@2@_N@Z) referenced in function "void __cdecl game_over(void)" (?game_over@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: class sf::Rect<float> __thiscall sf::Sprite::getGlobalBounds(void)const " (__imp_?getGlobalBounds@Sprite@sf@@QBE?AV?$Rect@M@2@XZ) referenced in function "void __cdecl game_over(void)" (?game_over@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: virtual __thiscall sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UAE@XZ) referenced in function "void __cdecl `dynamic initializer for 'life_spr''(void)" (??__Elife_spr@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Text::Text(void)" (__imp_??0Text@sf@@QAE@XZ) referenced in function "void __cdecl game_over(void)" (?game_over@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Text::setString(class sf::String const &)" (__imp_?setString@Text@sf@@QAEXABVString@2@@Z) referenced in function "void __cdecl game_over(void)" (?game_over@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Text::setFont(class sf::Font const &)" (__imp_?setFont@Text@sf@@QAEXABVFont@2@@Z) referenced in function "void __cdecl game_over(void)" (?game_over@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Text::setCharacterSize(unsigned int)" (__imp_?setCharacterSize@Text@sf@@QAEXI@Z) referenced in function "void __cdecl game_over(void)" (?game_over@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Text::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Text@sf@@QAEXABVColor@2@@Z) referenced in function "void __cdecl game_over(void)" (?game_over@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: virtual __thiscall sf::Text::~Text(void)" (__imp_??1Text@sf@@UAE@XZ) referenced in function "void __cdecl game_over(void)" (?game_over@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: virtual void __thiscall sf::SoundStream::play(void)" (__imp_?play@SoundStream@sf@@UAEXXZ) referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: virtual void __thiscall sf::SoundStream::stop(void)" (__imp_?stop@SoundStream@sf@@UAEXXZ) referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::SoundStream::setLoop(bool)" (__imp_?setLoop@SoundStream@sf@@QAEX_N@Z) referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Music::Music(void)" (__imp_??0Music@sf@@QAE@XZ) referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: virtual __thiscall sf::Music::~Music(void)" (__imp_??1Music@sf@@UAE@XZ) referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: bool __thiscall sf::Music::openFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (__imp_?openFromFile@Music@sf@@QAE_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) referenced in function _main
+Main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B)
+Main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::Color const sf::Color::White" (__imp_?White@Color@sf@@2V12@B)
+Main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::Color const sf::Color::Yellow" (__imp_?Yellow@Color@sf@@2V12@B)
+C:\Users\Nora Ekramy\Downloads\SFML-2.5.1-windows-vc15-64-bit\SFML-2.5.1\lib\sfml-graphics-s.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\Nora Ekramy\Downloads\SFML-2.5.1-windows-vc15-64-bit\SFML-2.5.1\lib\sfml-window-s.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\Nora Ekramy\Downloads\SFML-2.5.1-windows-vc15-64-bit\SFML-2.5.1\lib\sfml-system-s.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\Nora Ekramy\Downloads\SFML-2.5.1-windows-vc15-64-bit\SFML-2.5.1\lib\freetype.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\Nora Ekramy\Downloads\SFML-2.5.1-windows-vc15-64-bit\SFML-2.5.1\lib\sfml-audio-s.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\Nora Ekramy\Downloads\SFML-2.5.1-windows-vc15-64-bit\SFML-2.5.1\lib\openal32.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\Nora Ekramy\Downloads\SFML-2.5.1-windows-vc15-64-bit\SFML-2.5.1\lib\flac.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\Nora Ekramy\Downloads\SFML-2.5.1-windows-vc15-64-bit\SFML-2.5.1\lib\vorbisenc.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\Nora Ekramy\Downloads\SFML-2.5.1-windows-vc15-64-bit\SFML-2.5.1\lib\vorbisfile.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\Nora Ekramy\Downloads\SFML-2.5.1-windows-vc15-64-bit\SFML-2.5.1\lib\vorbis.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\Nora Ekramy\Downloads\SFML-2.5.1-windows-vc15-64-bit\SFML-2.5.1\lib\ogg.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\Nora Ekramy\Downloads\SFML-2.5.1-windows-vc15-64-bit\SFML-2.5.1\lib\sfml-network-s.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\Nora Ekramy\source\repos\Project1\Debug\Project1.exe : fatal error LNK1120: 55 unresolved externals
